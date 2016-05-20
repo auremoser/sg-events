@@ -1,0 +1,18 @@
+{
+  "name": "github-crawler",
+  "version": "1.0.0",
+  "description": "- Get all forks from:     https://github.com/mozillascience/studyGroup - From each fork, list all files inside:     https://github.com/mozillascience/studyGroup/tree/gh-pages/_posts from github-pages - Download/request each file and parse to create json object (graymatter) - It should recover from crashes - It should run x times a month",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "gray-matter": "^2.0.2",
+    "mkdirp": "^0.5.1",
+    "github": "0.0.3",
+    "octokat": "^0.4.17"
+  }
+}
