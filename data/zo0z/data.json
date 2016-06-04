@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Study Group Meetup",
+        "text": "Informal meet and greet event",
+        "location": "CBSB lab",
+        "link": "https://github.com/zo0z/studyGroup/issues/1",
+        "date": "2016-04-07T00:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00"
+    },
+    {
+        "title": "Weekly Study Group Meetup",
+        "text": "Lessons learned from Bioinformatics Data Skills, chapter 1",
+        "location": "Physically @ CBSB lab, and Online @ mconf room",
+        "link": "https://github.com/zo0z/studyGroup/issues/2",
+        "date": "2016-04-25T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "10:00"
+    },
+    {
+        "title": "Weekly Study Group Meetup",
+        "text": "Lessons learned from Bioinformatics Data Skills, chapter 2",
+        "location": "Physically @ CBSB lab, and Online @ mconf room",
+        "link": "https://github.com/zo0z/studyGroup/issues/3",
+        "date": "2016-05-02T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "10:00"
+    }
+]

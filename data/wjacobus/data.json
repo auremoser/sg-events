@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Make Your First Event",
+        "text": "In order to make your first event, follow the instructions here.",
+        "location": "Your Location",
+        "link": "https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event",
+        "date": "1977-01-01T00:00:00.000Z",
+        "startTime": "20:00",
+        "endTime": "21:00"
+    },
+    {
+        "title": "Python Event",
+        "text": "Taming the beast (Python for Beginners)",
+        "location": "Hogwarts",
+        "link": "https://github.com/wjacobus/studyGroup/issues/2",
+        "date": "2016-04-18T00:00:00.000Z",
+        "startTime": "15:00",
+        "endTime": "16:00"
+    },
+    {
+        "title": "Klone Army Meetup",
+        "text": "Taming the beast level 2",
+        "location": "Internet",
+        "link": "https://github.com/wjacobus/studyGroup/issues/4",
+        "date": "2016-10-08T00:00:00.000Z",
+        "startTime": "13:00",
+        "endTime": "18:00"
+    }
+]

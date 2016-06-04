@@ -1,0 +1,443 @@
+[
+    {
+        "title": "Introduction to tidyr/reshape2 package in R by Remi Daigle",
+        "text": "Learn to use the tidyr and reshape2 packages in R to tidy up your data to make it easier to analyze and visualize!",
+        "location": "Simon Fraser University (Burnaby Campus) SSB 6178",
+        "link": "https://github.com/ttimbers/studyGroup/issues/1",
+        "date": "2015-07-14T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Introduction to Regular Expressions by Bruno Grande",
+        "text": "We often manipulate text and a bit of pattern matching can go a long way. Once equipped with the flexibility and power of regular expressions, you'll wonder how you ever got around without them.",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/4",
+        "date": "2015-07-21T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Cool and Fast Data Wrangling in the Unix Shell by Tiffany Timbers",
+        "text": "Learn to use the Unix Shell to quickly find files and folders, concatenate hundreds of files, extract specific lines of text containing particular strings, and grab specified columns!",
+        "location": "Simon Fraser University (Burnaby Campus) SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/5",
+        "date": "2015-07-28T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/27",
+        "date": "2015-08-04T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Using Make to increase Automation & Reproducibility by Shaun Jackman",
+        "text": "Learn to use Make to manage your the data analysis pipeline!",
+        "location": "Simon Fraser University (Burnaby Campus) SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/6",
+        "date": "2015-08-11T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Introduction to the ggplot2 package in R by Catrina Loucks",
+        "text": "Learn to use R to make visually appealing and reproducible plots!",
+        "location": "Simon Fraser University (Burnaby Campus) SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/8",
+        "date": "2015-08-18T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Hacky Hour",
+        "text": "Come meet and socialize with people in the scientific programming community at SFU!",
+        "location": "Club Ilia, SFU, Burnaby Campus",
+        "link": "https://github.com/ttimbers/studyGroup/issues/33",
+        "date": "2015-08-21T00:00:00.000Z",
+        "startTime": 990,
+        "endTime": 1050
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/28",
+        "date": "2015-08-25T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "Setting Up Your Online Presence Using GitHub Pages by Bruno Grande",
+        "text": "Quickly set up your online presence using GitHub Pages (and learn a bit of Git on the side).",
+        "location": "SSB 7172, Simon Fraser University (Burnaby Campus)",
+        "link": "https://github.com/ttimbers/studyGroup/issues/36",
+        "date": "2015-09-01T00:00:00.000Z",
+        "startTime": 930,
+        "endTime": 990
+    },
+    {
+        "title": "RStudio - beyond the editor by Thea Van Rossum",
+        "text": "Let's dig in to that menu bar! Debugger & R markdown, here we come",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/17",
+        "date": "2015-09-14T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/18",
+        "date": "2015-09-21T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Hacky Hour",
+        "text": "Come meet and socialize with people in the scientific programming community at SFU!",
+        "location": "Club Ilia, SFU, Burnaby Campus",
+        "link": "https://github.com/ttimbers/studyGroup/issues/33",
+        "date": "2015-09-25T00:00:00.000Z",
+        "startTime": 990,
+        "endTime": 1050
+    },
+    {
+        "title": "Introduction to Perl by Kris Christensen",
+        "text": "Introduction on how to use the Perl programming language",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/26",
+        "date": "2015-09-28T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/18",
+        "date": "2015-10-5",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/44",
+        "date": "2015-10-19T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Introduction to Emacs & Multiple Cursors by Dan Fornika",
+        "text": "A general 'getting started' tutorial for those who aren't already familiar with Emacs",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/43",
+        "date": "2015-10-26T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "ScikitLearn, a python tool for multivariate analysis",
+        "text": "ScikitLearn is a python tool for multivariate analysis like decision making, regression trees etc !",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/45",
+        "date": "2015-11-02T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/48",
+        "date": "2015-11-09T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 7172",
+        "link": "https://github.com/ttimbers/studyGroup/issues/48",
+        "date": "2015-11-23T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Introduction to LaTeX by Ross Churchley",
+        "text": "Get to know LaTeX",
+        "location": "SSB 7172, Simon Fraser University (Burnaby Campus)",
+        "link": "https://github.com/ttimbers/studyGroup/issues/47",
+        "date": "2015-11-16T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "LmFit",
+        "text": "LMFIT, A Python tool for model fitting",
+        "location": "Simon Fraser University, Burnaby Campus, Research Commons Room 7010, Bennett Library",
+        "link": "https://github.com/ttimbers/studyGroup/issues/50",
+        "date": "2015-12-14T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Using Pandas for data analysis in Python",
+        "text": "Learn how to use dataframes in Python!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/54",
+        "date": "2015-11-30T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/53",
+        "date": "2015-12-07T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Test-driven development in Python by Tiffany Timbers",
+        "text": "Does your code work correctly? How do you know if it does? Come learn more about testing to ensure accurate code!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/57",
+        "date": "2016-01-11T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/58",
+        "date": "2016-01-18T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Hacky Hour",
+        "text": "Come meet and socialize with people in the scientific programming community at SFU!",
+        "location": "Club Ilia, SFU, Burnaby Campus",
+        "date": "2015-09-25T00:00:00.000Z",
+        "link": "https://etherpad.wikimedia.org/p/VancouverHackyHour",
+        "startTime": 990,
+        "endTime": 1050
+    },
+    {
+        "title": "Research Bazaar",
+        "text": "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. From February 1-3, 2016, the SFU Library's Research Commons will host workshops and events that allow researchers to gain skills and connect with one another.",
+        "location": "Simon Fraser University, Burnaby Campus",
+        "link": "https://github.com/ttimbers/studyGroup/issues/59",
+        "date": "2016-02-01T00:00:00.000Z",
+        "startTime": 510,
+        "endTime": 990
+    },
+    {
+        "title": "Creating reports with Rmarkdown by Thea Van Rossum",
+        "text": "Easily make reports to store your code with results and share your work with collaborators.",
+        "location": "Research Commons Room 7010, Bennett Library",
+        "link": "https://github.com/ttimbers/studyGroup/issues/63",
+        "date": "2016-02-15T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/62",
+        "date": "2016-02-22T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Visualization using Bokeh in Python by Alex Razoumov",
+        "text": "Come learn about Python's interactive visualization library.",
+        "location": "Research Commons Room 7010, Bennett Library",
+        "link": "https://github.com/ttimbers/studyGroup/issues/55",
+        "date": "2016-02-29T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Numpy working group session",
+        "text": "Small working group session on Python's Numpy library. NumPy is the fundamental package for scientific computing with Python.",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons, room 7305 (different than usual location)",
+        "link": "https://github.com/ttimbers/studyGroup/issues/73",
+        "date": "2016-03-02T00:00:00.000Z",
+        "startTime": 600,
+        "endTime": 660
+    },
+    {
+        "title": "DIB training Amazon Web Services half day workshop",
+        "text": "Learn how to use Amazon web services to compute remotely, as well as how this service can be used for reproducible research. Registration required.",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 8114",
+        "link": "https://github.com/ttimbers/studyGroup/issues/69",
+        "date": "2016-03-07T00:00:00.000Z",
+        "startTime": 555,
+        "endTime": 735
+    },
+    {
+        "title": "Map and bubble plots in R by Catrina Loucks",
+        "text": "Learn about maps and bubble plots in R using the ggmap packages.",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/60",
+        "date": "2016-03-14T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/65",
+        "date": "2016-03-21T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/67",
+        "date": "2016-04-04T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "R Apps with Shiny & Leaflet by Simon Goring",
+        "text": "Learn how to make beautiful Apps that can be run on the web with R!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/74",
+        "date": "2016-04-11T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/68",
+        "date": "2016-04-18T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Repeating things in R by Tiffany Timbers",
+        "text": "Learn more about ways to repeat things in R. We will review for loops, as well as learn about the R packages dplyr and purr and how these can be used in place of loops for many repetitive tasks in R.",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/66",
+        "date": "2016-04-25T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/78",
+        "date": "2016-05-02T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "DIB training R Markdown half day workshop",
+        "text": "What is robust and reproducible research? How can you make your research more robust and reproducible? You can use RMarkdown! Wait, what’s RMarkdown? RMarkdown is a variant of Markdown that has embedded R code chunks to be used with knitr to make it easy to create reproducible web-based reports. Registration required.",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 8114",
+        "link": "https://github.com/ttimbers/studyGroup/issues/70",
+        "date": "2016-05-11T00:00:00.000Z",
+        "startTime": 555,
+        "endTime": 735
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/76",
+        "date": "2016-05-16T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Placeholder title TBD",
+        "text": "A summary will appear soon",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/83",
+        "date": "2016-05-30T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/79",
+        "date": "2016-06-06T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "DIB training Open Science half day workshop",
+        "text": "How much code do you think is written in your lab that never makes it under version control? The ideal answer is none, but realistically, it might be most if not all. This workshop will introduce you to strategies and workflows to make not only your code, but many aspects of your research more transparent, reproducible and open. Registration required.",
+        "location": "Simon Fraser University, Burnaby Campus, SSB 8114",
+        "link": "https://github.com/ttimbers/studyGroup/issues/71",
+        "date": "2016-06-13T00:00:00.000Z",
+        "startTime": 555,
+        "endTime": 735
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/77",
+        "date": "2016-06-20T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/68",
+        "date": "2016-07-04T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/80",
+        "date": "2016-07-18T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/81",
+        "date": "2016-08-08T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    },
+    {
+        "title": "Coworking Session",
+        "text": "Come work on your own project in a supportive environment to get (and give) help from your peers!",
+        "location": "Simon Fraser University, Burnaby Campus, Library Research Commons",
+        "link": "https://github.com/ttimbers/studyGroup/issues/82",
+        "date": "2016-08-22T00:00:00.000Z",
+        "startTime": 690,
+        "endTime": 750
+    }
+]

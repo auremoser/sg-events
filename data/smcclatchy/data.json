@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Data Carpentry Genomics Workshop",
+        "text": "The focus of this workshop will be on working with genomics data and data management and analysis for genomics research.",
+        "location": "B18 Staff Conference Room",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/6",
+        "date": "2016-04-14T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "17:00"
+    },
+    {
+        "title": "Hacky Hour",
+        "text": "A meetup to discuss this new Study Group's goals and plans.",
+        "location": "Blaze, 198 Main Street, Bar Harbor",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/2",
+        "date": "2016-05-06T00:00:00.000Z",
+        "startTime": "16:30",
+        "endTime": "18:00"
+    },
+    {
+        "title": "Workalong - Data Organization in Spreadsheets",
+        "text": "A hands-on guided tour of good data organization practices for more effective data wrangling.",
+        "location": "B53 ERB 2519",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/5",
+        "date": "2016-05-12T00:00:00.000Z",
+        "startTime": "14:00",
+        "endTime": "15:00"
+    },
+    {
+        "title": "Hacky Hour",
+        "text": "A meetup to discuss this new Study Group's goals and plans.",
+        "location": "The Pub at 10 Discovery Drive, 2nd floor",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/9",
+        "date": "2016-05-13T00:00:00.000Z",
+        "startTime": "16:30",
+        "endTime": "17:30"
+    },
+    {
+        "title": "Co-working Session",
+        "text": "An open session to work on projects and ask each other questions in Bar Harbor and Farmington.",
+        "location": "B53 ERB 1405 & B400 3320",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/3",
+        "date": "2016-05-20T00:00:00.000Z",
+        "startTime": "11:30",
+        "endTime": "13:30"
+    },
+    {
+        "title": "Software Carpentry Curriculum Bug Barbeque",
+        "text": "It's almost time to publish the next version of Software Carpentry's lessons, and we need your help!",
+        "location": "B53 ERB 2519",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/8",
+        "date": "2016-06-13T00:00:00.000Z",
+        "startTime": "13:00",
+        "endTime": "16:00"
+    },
+    {
+        "title": "Hacky Hour",
+        "text": "A meetup to gather ideas and inspiration for the Study Group.",
+        "location": "Thirsty Whale, 40 Cottage St, Bar Harbor",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/10",
+        "date": "2016-06-17T00:00:00.000Z",
+        "startTime": "16:30",
+        "endTime": "18:00"
+    },
+    {
+        "title": "Workalong - Data Cleaning with OpenRefine",
+        "text": "A hands-on guided tour of OpenRefine for cleaning grungy data. Beginners welcome.",
+        "location": "B53 ERB 1421",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/11",
+        "date": "2016-06-29T00:00:00.000Z",
+        "startTime": "10:30",
+        "endTime": "11:30"
+    },
+    {
+        "title": "Data Carpentry Cloud Genomics",
+        "text": "A two-day workshop for sequence data analysis on the cloud. Beginners welcome.",
+        "location": "Staff Conference Room",
+        "link": "https://github.com/smcclatchy/studyGroup/issues/7",
+        "date": "2016-07-14T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "17:00"
+    }
+]

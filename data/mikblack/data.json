@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Introduction to ggplot2 in R",
+        "text": "Murray will introduce ggplot2, suitable for R novices.",
+        "location": "Leith room, Staff Club",
+        "link": "https://github.com/smilefreak/studyGroup/issues/2",
+        "date": "2015-09-10T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    },
+    {
+        "title": "Introduction to python.",
+        "text": "James will introduce python, suitable for complete begineers.",
+        "location": "Leith room, Staff Club",
+        "link": "https://github.com/smilefreak/studyGroup/issues/3",
+        "date": "2015-09-24T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    }
+]

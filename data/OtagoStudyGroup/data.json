@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Kickoff 2016",
+        "text": "The first meeting for 2016 where we'll be planning for year including future times and locations.",
+        "location": "Rm 231 Dept of Biochemistry",
+        "link": "https://github.com/otagostudygroup/studyGroup/issues/1",
+        "date": "2016-02-18T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    },
+    {
+        "title": "5x5 Lightning SYSKA - March",
+        "text": "5 minute lightning talks on 5 different topics by 5 different presenters on stuff you should know about",
+        "location": "Rm 319 Dept of Biochemistry",
+        "link": "https://github.com/otagostudygroup/studyGroup/issues/8",
+        "date": "2016-03-03T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    },
+    {
+        "title": "Git/Github Intro",
+        "text": "Interactive intro session for git/github use (bring a laptop)",
+        "location": "Rm 319 Dept of Biochemistry",
+        "link": "https://github.com/otagostudygroup/studyGroup/issues/17",
+        "date": "2016-03-17T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    },
+    {
+        "title": "How Do I...",
+        "text": "Interactive session to get help on all those how do I... questions you might have (bring a laptop if you want)",
+        "location": "Rm 319 Dept of Biochemistry",
+        "link": "https://github.com/otagostudygroup/studyGroup/issues/20",
+        "date": "2016-03-31T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    },
+    {
+        "title": "SYSKA (Tom K) Handling Large data in R",
+        "text": "An introduction to the data.table package and other approaches to large files",
+        "location": "Rm 319 Dept of Biochemistry",
+        "link": "https://github.com/OtagoStudyGroup/studyGroup/issues/21",
+        "date": "2016-04-14T00:00:00.000Z",
+        "startTime": "15:00",
+        "endTime": "16:30"
+    },
+    {
+        "title": "Intro to R",
+        "text": "First session, in a series, covering the start of the software carpentry R programming materials",
+        "location": "Rm 319 Dept of Biochemistry",
+        "link": "https://github.com/OtagoStudyGroup/studyGroup/issues/27",
+        "date": "2016-05-12T00:00:00.000Z",
+        "startTime": "15:30",
+        "endTime": "16:30"
+    }
+]

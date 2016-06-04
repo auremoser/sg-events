@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Make Your First Event",
+        "text": "In order to make your first event, follow the instructions here.",
+        "location": "Your Location",
+        "link": "https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event",
+        "date": "1977-01-01T00:00:00.000Z",
+        "startTime": "20:00",
+        "endTime": "21:00"
+    },
+    {
+        "title": "Roundtable Meeting",
+        "text": "see email for agenda",
+        "location": "TBA",
+        "link": "https://github.com/mrtimo/GUHSRR/issues/1",
+        "date": "2016-03-18T00:00:00.000Z",
+        "startTime": "11:30",
+        "endTime": "13:30"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Introduction to Command Line (windows and unix/mac)",
+        "text": "A quick intro to working on the command line",
+        "location": "N515 Pharmacy Hall, UMB",
+        "link": "https://github.com/isop-phmx/studyGroup/issues/3",
+        "date": "2016-04-01T00:00:00.000Z",
+        "startTime": "13:00",
+        "endTime": "14:30"
+    },
+    {
+        "title": "Introduction to PKPDsim",
+        "text": "A library for simulation of systems of differential equations in the pharmacometric setting",
+        "location": "San Francisco, CA",
+        "link": "https://github.com/isop-phmx/studyGroup/issues/15",
+        "date": "2016-04-29T00:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00"
+    },
+    {
+        "title": "Introduction to PmxStan",
+        "text": "An R Library to Facilitate PKPD Modeling with Stan",
+        "location": "New Jersey",
+        "link": "https://github.com/isop-phmx/studyGroup/issues/16",
+        "date": "2016-05-06T00:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00"
+    },
+    {
+        "title": "Simulation from PK/PD and systems pharmacology models in R with mrgsolve",
+        "text": "mrgsolve is an open source R package developed by Metrum Institute",
+        "location": "YouTube",
+        "link": "https://github.com/isop-phmx/studyGroup/issues/24",
+        "date": "2016-05-13T00:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00"
+    },
+    {
+        "title": "Introduction to the Shiny Framework for Pharmacometrics",
+        "text": "The background architecture and framework of Shiny",
+        "location": "Online",
+        "link": "https://github.com/isop-phmx/studyGroup/issues/19",
+        "date": "2016-05-20T00:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00"
+    },
+    {
+        "title": "Introduction to PKNCA",
+        "text": "Automation of Noncompartmental Analysis in R",
+        "location": "Online",
+        "link": "https://github.com/isop-phmx/studyGroup/issues/17",
+        "date": "2016-05-25T00:00:00.000Z",
+        "startTime": "12:00",
+        "endTime": "13:00"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "title": "First Hackey Hour Meeting",
+        "text": "A first/meta meeting formulating goals of future meetings.",
+        "location": "Cargil Building - 5pm - Room TBD",
+        "link": "https://github.com/schae234/studyGroup/issues/2",
+        "date": "2015-07-30T00:00:00.000Z"
+    },
+    {
+        "title": "Second Hackey Hour Meeting",
+        "text": "On establishing a third Hackey Hour meeting.",
+        "location": "Sallys Saloon - 4pm - See link for more details.",
+        "link": "https://github.com/schae234/studyGroup/issues/3",
+        "date": "2015-08-06T00:00:00.000Z"
+    },
+    {
+        "title": "Third Hackey Hour Meeting",
+        "text": "Hacking on @monprin's GeneWordSearch.",
+        "location": "Sallys Saloon - 4pm - See link for more details.",
+        "link": "https://github.com/schae234/studyGroup/issues/4",
+        "date": "2015-08-13T00:00:00.000Z"
+    },
+    {
+        "title": "Fourth Hackey Hour Meeting",
+        "text": "Web interface hacking with Justin and the ChemicalGenomics Website.",
+        "location": "Sallys Saloon - 4pm - See link for more details.",
+        "link": "https://github.com/schae234/studyGroup/issues/6",
+        "date": "2015-08-27T00:00:00.000Z"
+    },
+    {
+        "title": "Fifth Hackey Hour Meeting: Hacking Kaggle.",
+        "text": "Ben from the Knights lab will show us machine learning work.",
+        "location": "Sallys Saloon - 4pm - Click here for more details.",
+        "link": "https://github.com/schae234/studyGroup/issues/8",
+        "date": "2015-09-03T00:00:00.000Z"
+    },
+    {
+        "title": "Sixth Hackey Hour Meeting: Hacking Git LFS.",
+        "text": "Rob will talk about using Git LFS to track Large Files.",
+        "location": "Bar Luchador - 4pm - Click here for more details.",
+        "link": "https://github.com/schae234/studyGroup/issues/9",
+        "date": "2015-09-14T00:00:00.000Z"
+    }
+]

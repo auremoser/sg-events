@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Genomics Hacky Hour - NGS Data QC",
+        "text": "Bring your data and your device (any operating system will do). We'll look at quality reports for FASTQ data files",
+        "location": "North-West University Potchefstroom campus and Adobe Connect for remote participants (Exact venue TBC)",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/1",
+        "date": "2015-09-11T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Genomics Hacky Hour Meeting",
+        "text": "Talking about evaluating NGS data quality from a FASTQC report as well as NGS study design",
+        "location": "Room 307, Building D1, Hoffman Street, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/3",
+        "date": "2015-09-22T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Brainstorming future of the Genomics Hacky Hour",
+        "text": "We will reflect on our activities over the past few weeks and discuss how to go forward to address the needs of our community",
+        "location": "Room 159, Bldg F1, Potcchefstroom Campus, NWU",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/7",
+        "date": "2015-10-16T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Planning activities for 2016",
+        "text": "We'll discuss our activities for 2016 taking into consideration the suggestions from our last meeting",
+        "location": "Room 159, Building F1, Potchefstroom Campus, NWU",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/8",
+        "date": "2015-10-30T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Software Carpentry workshop",
+        "text": "We'll be learning to use open tools for reproducible research. For more information go to http://anelda.github.io/2015-11-05-NWU/",
+        "location": "Faculty of Engineering, 18 Calderbank Avenue, Potchefstroom, South Africa",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/9",
+        "date": "2015-11-05T00:00:00.000Z",
+        "startTime": "08:30",
+        "endTime": "17:00"
+    },
+    {
+        "title": "Social media for research",
+        "text": "We'll be talking about how social media such as Twitter can help you keep up to date with latest research. It's also a great place to advertise your own research findings",
+        "location": "Room 305, Bldg D1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/10",
+        "date": "2015-11-27T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "11:00"
+    },
+    {
+        "title": "First discussion about Coursera's Genomics Data Science MOOC",
+        "text": "We'll be working through the Coursera Genomics Data Science MOOC as a group. This week we'll discuss our plan of action. More information about the course at https://www.coursera.org/specializations/genomic-data-science",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/13",
+        "date": "2016-01-18T00:00:00.000Z",
+        "startTime": "10:45",
+        "endTime": "11:45"
+    },
+    {
+        "title": "Discussion of Coursera - Introduction to Genomics Technologies (Week 1)",
+        "text": "This week we'll discuss the material from week 1 of the Coursera Introduction to Genomics Technologies MOOC (https://www.coursera.org/learn/introduction-genomics)",
+        "location": "Room 159, Bldg D1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/14",
+        "date": "2016-01-21T00:00:00.000Z",
+        "startTime": "14:15",
+        "endTime": "16:15"
+    },
+    {
+        "title": "Discussion of Coursera - Introduction to Genomics Technologies (Week 2)",
+        "text": "This week we'll discuss the material from week 2 of the Coursera Introduction to Genomics Technologies MOOC (https://www.coursera.org/learn/introduction-genomics)",
+        "location": "Room 307, Bldg D1, Potchefstroom Campus, NWU",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/15",
+        "date": "2016-01-28T00:00:00.000Z",
+        "startTime": "14:00",
+        "endTime": "16:00"
+    },
+    {
+        "title": "Discussion about the Coursera MOOC - Introduction to Genomics Technologies (Week 3)",
+        "text": "This week we're discussing the material from week 3 of the Coursera MOOC - Introduction to Genomics Technologies (https://www.coursera.org/learn/introduction-genomics)",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/11",
+        "date": "2016-02-02T00:00:00.000Z",
+        "startTime": "14:00",
+        "endTime": "16:00"
+    },
+    {
+        "title": "Discussion about Coursera - Introduction to Genomics Technologies (Week 4)",
+        "text": "This week we're discussing the material from week 4 of the Coursera MOOC - Introduction to Genomics Technologies (https://www.coursera.org/learn/introduction-genomics)",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/12",
+        "date": "2016-02-12T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Discussion about Coursera Genomic Data Science with Galaxy Week 1",
+        "text": "This week we're discussing the material from week 1 of the Coursera MOOC - Genomic Data Science with Galaxy",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/17",
+        "date": "2016-02-18T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Discussion about Coursera Genomic Data Science with Galaxy Week 2",
+        "text": "This week we're discussing the material from week 2 of the Coursera MOOC - Genomic Data Science with Galaxy",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/18",
+        "date": "2016-02-25T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Hacky Hour - Focus on 16S data analysis",
+        "text": "We're resuming our Hacky Hour meetings and specifically focusing on 16S data analysis this week. We'll be talking about resources available at the NWU and elsewhere.",
+        "location": "Room 502, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/21",
+        "date": "2016-02-26T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Discussion about Coursera Genomic Data Science with Galaxy Week 3",
+        "text": "This week we're discussing the material from week 3 of the Coursera MOOC - Genomic Data Science with Galaxy",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/19",
+        "date": "2016-03-03T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    },
+    {
+        "title": "Discussion about Coursera Genomic Data Science with Galaxy Week 4",
+        "text": "This week we're discussing the material from week 4 of the Coursera MOOC - Genomic Data Science with Galaxy",
+        "location": "Room 159, Bldg F1, NWU, Potchefstroom",
+        "link": "https://github.com/anelda/GenomicsHackyHour/issues/20",
+        "date": "2016-03-10T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "12:00"
+    }
+]

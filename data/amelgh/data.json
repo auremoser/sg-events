@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Introduction to Linux environment (basics)",
+        "text": "Introduction to the most needed Linux commands for biologists",
+        "location": "Institut Pasteur de Tunis",
+        "link": "https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event",
+        "date": "2015-10-26T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "11:00"
+    },
+    {
+        "title": "Introduction to Linux environment (basics)",
+        "text": "Introduction to the most needed Linux commands for biologists",
+        "location": "Institut Pasteur de Tunis",
+        "link": "https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event",
+        "date": "2015-10-26T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "11:00"
+    },
+    {
+        "title": "Study Group Meetup",
+        "text": "A basic introduction to files handling with R",
+        "location": "Institut Pasteur de Tunis",
+        "link": "https://github.com/yourUserName/studyGroup/issues/1234",
+        "date": "2016-02-24T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "11:00"
+    },
+    {
+        "title": "Study Group Meetup",
+        "text": "A basic introduction to files handling with R",
+        "location": "Institut Pasteur de Tunis",
+        "link": "https://github.com/amelgh/IPT_Tunisia/issues/1234",
+        "date": "2016-02-24T00:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "11:00"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+]
