@@ -53,6 +53,9 @@ getForkCount(username, repository).then(function(total){
         batches.map(function(batch){
             processContent(batch);
         });
+    }).catch(function(err){
+        console.error('Batch download error');
+        console.error('ERROR: %s.\n%s', err.message, err.stack);
     });
 });
 
@@ -121,7 +124,13 @@ function processContent(forks){
                     file.push(matter(contents).data);
                 });
                 require('fs').writeFileSync(filepath + '/data.json', JSON.stringify(file, null, 4), 'utf-8');
+            }).catch(function(err){
+                console.error('Batch create file error');
+                console.error('ERROR: %s.\n%s', err.message, err.stack);
             });
+        }).catch(function(err){
+            console.error('Fetch repo _posts error');
+            console.error('ERROR: %s.\n%s', err.message, err.stack);
         });
     });
 }
