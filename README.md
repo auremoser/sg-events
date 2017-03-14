@@ -134,5 +134,38 @@ Fork payload:
     }
 ```
 
+####For merge all the jsons found during the crawler 
+
+To run the script: 
+
+Goes to /data and execute: 
+
+```
+$ python join_json.py
+
+```
+It will generate a new json file in current folder. 
+
+#####Flow, Requirements and other aspects 
+
+######Flow 
+
+- Get all the folders in /data 
+- In every folder , it takes each json file and concatenate each other. 
+- The outcome of script, ```merge_files.json" ```, it's a json file with every information of jsons in /data. 
+- merge_files.json are at /data. 
+
+######Requirements 
+
+- It should always run after the crawler. 
+
+######TO DO 
+
+-- Ignore default jsons 
+
+
+
+
+
 
 [token]:https://github.com/settings/tokens
