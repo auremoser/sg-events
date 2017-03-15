@@ -20,12 +20,38 @@ def concatenateJson():
 			with open(f_json, "rb") as infile:
 				concatenated.append(json.load(infile))
 
-	print("Write the new json file")
+	return concatenated
 
+
+def removeDefaultEvents(list_jsons):
+	
+	count = 0
+	helper = [] 
+	default_title = "Make Your First Event"
+
+	for jsons in list_jsons:
+		for key in jsons: 
+			for values in key: 
+				if(values == "title"):
+					if(key[values] != default_title):
+						helper.append(key)
+					else: 
+						count+=1
+				break
+			break
+
+	print("Write the new json file")
 	with open("merged_files.json", "wb") as outfile:
-		json.dump(concatenated, outfile)
+		json.dump(helper, outfile)
+
+	print("Has %i default events" % count)
 
 
 
 if __name__ == "__main__":
-	concatenateJson()
+	
+	removeDefaultEvents(concatenateJson())
+
+
+
+
