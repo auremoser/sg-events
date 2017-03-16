@@ -28,11 +28,12 @@ def removeDefaultEvents(list_jsons):
 	count = 0
 	count_new = 0
 	helper = [] 
+	title = "title"
 	default_title = "Make Your First Event"
 
 	for jsons in list_jsons:
 		for key in jsons: 
-			if(key["title"].strip() != default_title):
+			if(key[title].strip() != default_title):
 				helper.append(key)
 				count_new += 1
 			else: 
@@ -43,8 +44,7 @@ def removeDefaultEvents(list_jsons):
 	with open("merged_files.json", "wb") as outfile:
 		json.dump(helper, outfile)
 
-	print "\n"	
-	print("Has %i default events" % count)
+	print("\nHas %i default events" % count)
 	print ("\nHas %i Study Group Events" %count_new)
 
 
