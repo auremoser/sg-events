@@ -1,4 +1,11 @@
-### Crawler
+## Study Group Event Tracker
+
+A series of scripts to pull "event" data from [Mozilla Study Groups](https://github.com/mozillascience/studyGroup), or informal peer learning groups organized around Github pages sites with a Jekyll Theme. In this case, "events" means 
+
+Study Group Leaders fork the [Study Group repo](https://github.com/mozillascience/studyGroup) to start their own website, and use github issues and `_posts` to populate events on their sites. Events can be anything from informal hacky hours to structured workshops taught by peers, often dabbling in scientific or statistical programming topics. Read more about Study Groups in the [Study Group Orientation Guide](https://mzl.la/sg-orientation).
+
+
+### CRAWLER FOR STUDY GROUP DATA
 
 You need a github token, which you can generate [here][token]
 
@@ -134,7 +141,7 @@ Fork payload:
     }
 ```
 
-#### Merge File of all JSON
+#### MERGED DATA FROM ALL GROUPS
 
 To run the script: 
 
