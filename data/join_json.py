@@ -11,7 +11,6 @@ def getPathName():
 	return list_dir
 
 
-
 def concatenateJson():
 	directorys = getPathName()
 	concatenated = []
