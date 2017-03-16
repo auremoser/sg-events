@@ -168,4 +168,3 @@ It will generate a new json file in current folder.
 #### TO DO 
 
 -- Ignore default jsons 
-
