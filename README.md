@@ -4,6 +4,10 @@ A series of scripts to pull "event" data from [Mozilla Study Groups](https://git
 
 Study Group Leaders fork the [Study Group repo](https://github.com/mozillascience/studyGroup) to start their own website, and use github issues and `_posts` to populate events on their sites. Events can be anything from informal hacky hours to structured workshops taught by peers, often dabbling in scientific or statistical programming topics. Read more about Study Groups in the [Study Group Orientation Guide](https://mzl.la/sg-orientation).
 
+**WELCOME GSOC Contributors**
+
+Interested in working on this project? Check out the [GSOC-studyGroup contributor guide](https://github.com/mozillascience/studyGroup-GSOC)!
+
 
 ### CRAWLER FOR STUDY GROUP DATA
 
