@@ -6,7 +6,8 @@ import glob
 def getPathName():
 	list_dir = []
 	for path in os.listdir(os.getcwd()):
-		if(path[-3] != "." or path[-5] != "."):
+		#checks if string path is a directory		
+		if(os.path.isdir(path)):
 			list_dir.append(path)
 	return list_dir
 
