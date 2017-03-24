@@ -146,6 +146,8 @@ $ python join_json.py
 ```
 It will generate a new json file in current folder. 
 
+p.s. the script only will works if the json for in the specific format. (see entry parsed)
+
 
 #### Flow
 
