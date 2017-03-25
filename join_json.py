@@ -6,8 +6,7 @@ import glob
 def getPathName():
 	list_dir = []
 	for path in os.listdir(os.getcwd()):
-		#checks if string path is a directory		
-		if(os.path.isdir(path)):
+		if(path[-3] != "." or path[-5] != "."):
 			list_dir.append(path)
 	return list_dir
 
@@ -33,7 +32,7 @@ def removeDefaultEvents(list_jsons):
 
 	for jsons in list_jsons:
 		for key in jsons: 
-			if(len(key) != 0 and key[title].strip() != default_title):
+			if(key[title].strip() != default_title):
 				helper.append(key)
 				count_new += 1
 			else: 
