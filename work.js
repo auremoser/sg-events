@@ -1,53 +1,61 @@
-// 'use strict';
+'use strict';
 // var GitHubApi = require("github");
-// // var GitHubApi = require('github');
 // var matter = require('gray-matter');
 // var mkdirp = require('mkdirp');
 // var Bluebird = require('bluebird');
 
+var Crawler = require("crawler");
+// var url = require('url');
+var userArray = [];
+var repArray = [];
 
-var GitHubApi = require("github");
-
-var github = new GitHubApi({
-    // optional
-    debug: true,
-    protocol: "https",
-    host: "github.my-GHE-enabled-company.com", // should be api.github.com for GitHub
-    pathPrefix: "/api/v3", // for some GHEs; none for GitHub
-    headers: {
-        "user-agent": "My-Cool-GitHub-App" // GitHub is happy with a unique user agent
-    },
-    Promise: require('bluebird'),
-    followRedirects: false, // default: true; there's currently an issue with non-get redirects, so allow ability to disable follow-redirects
-    timeout: 5000
-});
-
-// TODO: optional authentication here depending on desired endpoints. See below in README.
-
-github.users.getFollowingForUser({
-    // optional
-    // headers: {
-    //     "cookie": "blahblah"
-    // },
-    username: "defunkt"
-}, function(err, res) {
-    console.log(JSON.stringify(res));
-});
-
-
-// var github = new GitHubApi({
-//     // optional
-//     debug: true,
-//     protocol: "https",
-//     host: "github.my-GHE-enabled-company.com", // should be api.github.com for GitHub
-//     pathPrefix: "/api/v3", // for some GHEs; none for GitHub
-//     headers: {
-//         "user-agent": "My-Cool-GitHub-App" // GitHub is happy with a unique user agent
-//     },
-//     Promise: require('bluebird'),
-//     followRedirects: false, // default: true; there's currently an issue with non-get redirects, so allow ability to disable follow-redirects
-//     timeout: 5000
+// var p1 = new Promise(function(resolve, reject) {
+//   resolve('Success!');
+//   or
+//   reject ("Error!");
 // });
+
+function yes(usr,rep) {
+    console.log(usr);
+    console.log(rep);
+
+}
+
+var c = new Crawler({
+    maxConnections : 10,
+    // This will be called for each crawled page 
+    callback : function (error, res, done) {
+        if(error){
+            console.log(error);
+        }else{
+            var $ = res.$;
+            // $ is Cheerio by default 
+            //a lean implementation of core jQuery designed specifically for the server 
+            $( "div.repo" ).each(function( ) {
+                var plainText = ""
+                var ar =[]
+                plainText = $(this).text().trim();
+                ar = plainText.split("\n    /\n    ");
+                userArray.push(ar[0]);
+                repArray.push(ar[1]);
+                // textArray.push($( this ).text().trim())
+              // console.log($( this ).text().trim() );
+            });
+        }
+        yes(userArray,repArray);
+        done();
+    }
+});
+
+c.queue('https://github.com/mozillascience/studyGroup/network/members');
+
+
+
+
+// Promise.all(c.queue('https://github.com/mozillascience/studyGroup/network/members')).then(function(){
+//         console.log(textArray);
+//         });
+// console.log(textArray);
 
 // var github = new GitHubApi({
 //     debug: true,

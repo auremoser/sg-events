@@ -10,10 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.4.0",
-    "github": "0.0.3",
-    "gray-matter": "^2.0.2",
+    "crawl":"~0.3.1",
+    "gray-matter": "^2.1.1",
     "mkdirp": "^0.5.1",
-    "node-github": "0.0.3",
-    "octokat": "^0.4.18"
+    "octokat": "^0.6.4"
   }
 }
