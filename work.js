@@ -8,13 +8,25 @@ var Crawler = require("crawler");
 // var url = require('url');
 var userArray = [];
 var repArray = [];
+var Octokat = require('octokat');
+var octo = new Octokat({
+    token: "0aaefcc5166d2133ab5c740651320ab1d3eb1bd2"
+});
 
 
+function startCrawler(usr,rep) {
+    crawlerNode(usr[0],rep[0])
+    console.log(usr[0])
+    console.log(rep[0])
 
-function yes(usr,rep) {
-    console.log(usr);
-    console.log(rep);
+}
 
+function crawlerNode(usr,rep) {
+    var repo = octo.repos(usr, rep);
+    repo.contents('README.md').read() // Use `.read` to get the raw file.
+    .then((contents) => {        // `.fetch` is used for getting JSON
+      console.log(contents)
+    });
 }
 
 var c = new Crawler({
@@ -38,7 +50,7 @@ var c = new Crawler({
               // console.log($( this ).text().trim() );
             });
         }
-        yes(userArray,repArray);
+        startCrawler(userArray,repArray);
         done();
     }
 });
