@@ -1,4 +1,6 @@
-## Study Group Event Tracker
+<!-- 81e18c18fabdceba33aede480c46fe5e650f04c0
+ -->
+ ## Study Group Event Tracker
 
 A series of scripts to pull "event" data from [Mozilla Study Groups](https://github.com/mozillascience/studyGroup), or informal peer learning groups organized around Github pages sites with a Jekyll Theme. In this case, "events" means 
 
