@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.4.0",
     "github": "0.0.3",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^19.0.0",
     "gray-matter": "^2.0.2",
+    "lowdb": "^0.16.2",
     "mkdirp": "^0.5.1",
     "node-github": "0.0.3",
     "octokat": "^0.4.18"
