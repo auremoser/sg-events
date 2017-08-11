@@ -463,3 +463,7 @@ function objToArray(obj){
   ];
   return arr;
 }
+
+db.get('events')
+.push({"Study Group Event": "title", "Event Description": "text", "Event Location": "location", "Study Group Name": "link", "Date of the Event": "date", "Start Time": "startTime", "End Time": "endTime"})
+.write();
