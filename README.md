@@ -11,14 +11,19 @@ Interested in working on this project? Check out the [GSOC-studyGroup contributo
 
 ### CRAWLER FOR STUDY GROUP DATA
 
-You need a github token, which you can generate [here][token]
+You need a github token, which you can generate [here](https://github.com/settings/tokens).  
+Also [enable Google Sheets API](https://developers.google.com/sheets/api/quickstart/nodejs).  
+Create a google spreadsheet and change its permission to at least "Anyone with the link can view".  
 
-To run the program:
+Now download the google oauth2 client id you just created as JSON and place it in the project root (same level as index.js), make sure to rename it to `client_secret.json`.  
+
+To run the program:  
 
 ```
 $ npm install
-$ npm i node-github
-$ NODE_GITHUB_TOKEN=<token> node index.js
+$ export NODE_GITHUB_TOKEN=<token>
+$ export SHEET_ID=<sheet_id>
+$ node index.js
 ```
 
 #### Flow and Requirements

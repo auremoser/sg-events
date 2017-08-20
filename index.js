@@ -306,6 +306,17 @@ function initDB(){
   if (!events){
     db.defaults({ events: [] })
     .write();
+    db.get('events')
+      .push({
+        'title': 'Study Group Event',
+        'text': 'Event Description',
+        'location': 'Event Location',
+        'link': 'Study Group Name',
+        'date': 'Date of the Event',
+        'startTime': 'Start Time',
+        'endTime': 'End Time'
+      })
+      .write();
   }
   clearSheet();
 }
@@ -464,6 +475,3 @@ function objToArray(obj){
   return arr;
 }
 
-db.get('events')
-.push({"Study Group Event": "title", "Event Description": "text", "Event Location": "location", "Study Group Name": "link", "Date of the Event": "date", "Start Time": "startTime", "End Time": "endTime"})
-.write();
