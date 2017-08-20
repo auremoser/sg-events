@@ -16,6 +16,8 @@ You need a github token, which you can generate [here][token]
 To run the program:
 
 ```
+$ npm install
+$ npm i node-github
 $ NODE_GITHUB_TOKEN=<token> node index.js
 ```
 
