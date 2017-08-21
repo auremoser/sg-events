@@ -54,6 +54,7 @@ var pageSize = 33;
 /* --- Google API initiation --- */
 var sheets = google.sheets('v4');
 var SHEET_ID = process.env.SHEET_ID;
+var SHEET_NAME = process.env.SHEET_NAME;
 
 // If modifying these scopes, delete your previously saved credentials
 // at ./credentials/sheets.googleapis.com-nodejs-quickstart.json
@@ -327,7 +328,7 @@ function initDB(){
 function clearSheet(){
   var request = {
     spreadsheetId: SHEET_ID,
-    range: 'warka!A1:Z',
+    range: SHEET_NAME + '!A1:Z',
     auth: oauth2Holder
   };
 
@@ -416,7 +417,7 @@ function pushBatch(batch){
 
   var request = {
     spreadsheetId: SHEET_ID,
-    range: 'warka',
+    range: SHEET_NAME,
     valueInputOption: 'USER_ENTERED',
     resource: {
       values: batch

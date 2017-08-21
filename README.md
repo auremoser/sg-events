@@ -23,6 +23,7 @@ To run the program:
 $ npm install
 $ export NODE_GITHUB_TOKEN=<token>
 $ export SHEET_ID=<sheet_id>
+$ export SHEET_NAME=<sheet_name>
 $ node index.js
 ```
 
