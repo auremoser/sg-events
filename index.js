@@ -54,6 +54,7 @@ var pageSize = 33;
 /* --- Google API initiation --- */
 var sheets = google.sheets('v4');
 var SHEET_ID = process.env.SHEET_ID;
+var SHEET_NAME = process.env.SHEET_NAME;
 
 // If modifying these scopes, delete your previously saved credentials
 // at ./credentials/sheets.googleapis.com-nodejs-quickstart.json
@@ -306,6 +307,17 @@ function initDB(){
   if (!events){
     db.defaults({ events: [] })
     .write();
+    db.get('events')
+      .push({
+        'title': 'Study Group Event',
+        'text': 'Event Description',
+        'location': 'Event Location',
+        'link': 'Study Group Name',
+        'date': 'Date of the Event',
+        'startTime': 'Start Time',
+        'endTime': 'End Time'
+      })
+      .write();
   }
   clearSheet();
 }
@@ -316,7 +328,7 @@ function initDB(){
 function clearSheet(){
   var request = {
     spreadsheetId: SHEET_ID,
-    range: 'warka!A1:Z',
+    range: SHEET_NAME + '!A1:Z',
     auth: oauth2Holder
   };
 
@@ -405,7 +417,7 @@ function pushBatch(batch){
 
   var request = {
     spreadsheetId: SHEET_ID,
-    range: 'warka',
+    range: SHEET_NAME,
     valueInputOption: 'USER_ENTERED',
     resource: {
       values: batch
@@ -463,3 +475,4 @@ function objToArray(obj){
   ];
   return arr;
 }
+
