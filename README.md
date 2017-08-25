@@ -21,6 +21,7 @@ To run the program:
 
 ```
 $ npm install
+$ npm i node-github
 $ export NODE_GITHUB_TOKEN=<token>
 $ export SHEET_ID=<sheet_id>
 $ export SHEET_NAME=<sheet_name>
